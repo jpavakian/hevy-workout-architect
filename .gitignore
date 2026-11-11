@@ -1,0 +1,17 @@
+# Local data / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*
+*secret*
+credentials*.json
+private/
+personal/
+exports/
+workout-history/
+*.hevy-export.*
+.DS_Store
+__pycache__/
+*.pyc
